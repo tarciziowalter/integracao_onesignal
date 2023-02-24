@@ -1,0 +1,19 @@
+{
+    "name": "dev/onesignal",
+    "autoload": {
+        "psr-4": {
+            "Dev\\Onesignal\\": "src/"
+        },
+        "files" : [
+            "helpers/onesignal.php",
+            "includes/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Tarcizio Walter",
+            "email": "tarciziowalter@outlook.com"
+        }
+    ],
+    "require": {}
+}
